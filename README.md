@@ -1,5 +1,5 @@
 # Zodiac-340-Transposition-Reverser
-This repository contains a small program, that allows to reverse the used transposition cipher, which the Zodiac Killer used in his Z-430 message.
+This repository contains a small program, that allows to reverse the used transposition cipher, which the Zodiac Killer used in his Z-340 message.
 
 To reverse the substitution (after the transposition), you can use AZDecrypt (from van Eycke) or you can use our CrypTool 2
 -> AZDecrypt: http://zodiackillersite.com/viewtopic.php?f=81&t=3198
