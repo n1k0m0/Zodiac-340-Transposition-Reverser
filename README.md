@@ -2,7 +2,7 @@
 This repository contains a small program, that allows to reverse the used transposition cipher, which the Zodiac Killer used in his Z-340 message.
 
 To reverse the substitution (after the transposition), you can use AZDecrypt (from van Eycke) or you can use our CrypTool 2
-* AZDecrypt: http://zodiackillersite.com/viewtopic.php?f=81&t=3198
+* AZdecrypt: http://zodiackillersite.com/viewtopic.php?f=81&t=3198
 * CrypTool 2: https://www.cryptool.org/de/ct2/downloads
 
 If you want to use CrypTool 2 to decipher the remaining substitution cipher, after reversing the transposition, you can find in CT2_workspace a file named "z340_decrypt_substitution.cwm", which you can load and execute in CrypTool 2. The workspace already contains the intermediate ciphertext and the correct substitution key.
